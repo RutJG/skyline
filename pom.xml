@@ -16,13 +16,13 @@
 
    <scm>
         <connection>
-            scm:git:git://github.com/pabloPantoja/CS_Sprint2.git
+            scm:git:git://github.com/RutJG/skyline.git
         </connection>
         <developerConnection>
-            scm:git:https://github.com/pabloPantoja/CS_Sprint2.git
+            scm:git:https://github.com/RutJG/skyline.git
         </developerConnection>
         <url>
-            https://github.com/pabloPantoja/CS_Sprint2.git
+            https://github.com/RutJG/skyline.git
         </url>
         
     

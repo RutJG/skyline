@@ -52,5 +52,25 @@ public class App
             Contorno c = skyline.get(i);
             System.out.println(c.getCoordenada()+" "+c.getAltura());
         }
-    }
+    
+        int opcion=1;
+        switch(opcion)
+
+        {
+
+            case 1:Contorno.copypaste();break;
+            case 2:Contorno.copypaste2();break;
+            case 3:Contorno.copypaste3();break;
+            case 4:Contorno.copypaste4();break;
+            case 5:Contorno.copypaste5();break;
+            case 6:Rectangulo.copypaste2();break;
+            case 7:Rectangulo.copypaste3();break;
+            case 8:Rectangulo.copypaste4();break;
+            case 9:Rectangulo.copypaste5();break;
+            default:Rectangulo.copypaste();
+
+
+        }; 
+}
+
 }

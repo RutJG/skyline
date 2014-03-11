@@ -70,37 +70,9 @@ public class Contorno {
         this.altura = altura;
     }
     
-    static public void copypaste (){
-        int a,b,c,e,f,g,h,i,j,k;
-        char l,m,n,o,p,q,r,s,t,u,v;
-        a=5;
-        b=8;
-        c=a+b;
-        e=8;
-        f=12;
-        g=e+f-c*3;
-        l='k';
-        r='j';
-        System.out.println("Copy Paste");
-       
-        
-    }
     
-     static public void copypaste2 (){
-        int a,b,c,e,f,g,h,i,j,k;
-        char l,m,n,o,p,q,r,s,t,u,v;
-        a=5;
-        b=8;
-        c=a+b;
-        e=8;
-        f=12;
-        g=e+f-c*3;
-        l='k';
-        r='j';
-        System.out.println("Copy Paste");
-       
-        
-    }
+    
+     
      
       static public void copypaste3 (){
         int a,b,c,e,f,g,h,i,j,k;

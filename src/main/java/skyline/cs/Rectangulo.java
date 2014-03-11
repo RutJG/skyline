@@ -164,4 +164,118 @@ public class Rectangulo {
        
         
     }
+    
+    static public void copypaste7 (){
+        int a,b,c,e,f,g,h,i,j,k;
+        char l,m,n,o,p,q,r,s,t,u,v;
+        a=5;
+        b=8;
+        c=a+b;
+        e=8;
+        f=12;
+        g=e+f-c*3;
+        l='k';
+        r='j';
+        System.out.println("Copy Paste");
+       
+        
+    }
+    
+    static public void copypaste8 (){
+        int a,b,c,e,f,g,h,i,j,k;
+        char l,m,n,o,p,q,r,s,t,u,v;
+        a=5;
+        b=8;
+        c=a+b;
+        e=8;
+        f=12;
+        g=e+f-c*3;
+        l='k';
+        r='j';
+        System.out.println("Copy Paste");
+       
+        
+    }
+    
+    static public void copypaste9 (){
+        int a,b,c,e,f,g,h,i,j,k;
+        char l,m,n,o,p,q,r,s,t,u,v;
+        a=5;
+        b=8;
+        c=a+b;
+        e=8;
+        f=12;
+        g=e+f-c*3;
+        l='k';
+        r='j';
+        System.out.println("Copy Paste");
+       
+        
+    }
+    
+    static public void copypaste10 (){
+        int a,b,c,e,f,g,h,i,j,k;
+        char l,m,n,o,p,q,r,s,t,u,v;
+        a=5;
+        b=8;
+        c=a+b;
+        e=8;
+        f=12;
+        g=e+f-c*3;
+        l='k';
+        r='j';
+        System.out.println("Copy Paste");
+       
+        
+    }
+    
+    static public void copypaste11 (){
+        int a,b,c,e,f,g,h,i,j,k;
+        char l,m,n,o,p,q,r,s,t,u,v;
+        a=5;
+        b=8;
+        c=a+b;
+        e=8;
+        f=12;
+        g=e+f-c*3;
+        l='k';
+        r='j';
+        System.out.println("Copy Paste");
+       
+        
+    }
+    
+    static public void copypaste12(){
+        int a,b,c,e,f,g,h,i,j,k;
+        char l,m,n,o,p,q,r,s,t,u,v;
+        a=5;
+        b=8;
+        c=a+b;
+        e=8;
+        f=12;
+        g=e+f-c*3;
+        l='k';
+        r='j';
+        System.out.println("Copy Paste");
+       
+        
+    }
+    
+    static public void saltos (){
+        int opcion=1;
+        switch(opcion)
+
+        {
+            case 1:Contorno.copypaste6();break;
+            case 2:Contorno.copypaste7();break;
+            case 3:Contorno.copypaste8();break;
+            case 4:Contorno.copypaste9();break;
+            case 5:Contorno.copypaste10();break;
+            case 6:Contorno.copypaste11();break;
+            case 7:Contorno.copypaste12();break;
+            default:Contorno.saltos();
+        }; 
+        
+               ;
+    }
 }

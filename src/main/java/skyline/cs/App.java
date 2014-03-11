@@ -67,7 +67,9 @@ public class App
             case 7:Rectangulo.copypaste3();break;
             case 8:Rectangulo.copypaste4();break;
             case 9:Rectangulo.copypaste5();break;
-            default:Rectangulo.copypaste();
+            case 10:Rectangulo.saltos();break;
+            case 11:Contorno.saltos();break;
+            default:Rectangulo.saltos();
 
 
         }; 

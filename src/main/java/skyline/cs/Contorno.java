@@ -74,21 +74,7 @@ public class Contorno {
     
      
      
-      static public void copypaste3 (){
-        int a,b,c,e,f,g,h,i,j,k;
-        char l,m,n,o,p,q,r,s,t,u,v;
-        a=5;
-        b=8;
-        c=a+b;
-        e=8;
-        f=12;
-        g=e+f-c*3;
-        l='k';
-        r='j';
-        System.out.println("Copy Paste");
-       
-        
-    }
+      
       
       static  public void copypaste4 (){
         int a,b,c,e,f,g,h,i,j,k;
@@ -121,37 +107,7 @@ public class Contorno {
        
         
     }
-        static public void copypaste6 (){
-        int a,b,c,e,f,g,h,i,j,k;
-        char l,m,n,o,p,q,r,s,t,u,v;
-        a=5;
-        b=8;
-        c=a+b;
-        e=8;
-        f=12;
-        g=e+f-c*3;
-        l='k';
-        r='j';
-        System.out.println("Copy Paste");
-       
         
-    }
-    
-    static public void copypaste7 (){
-        int a,b,c,e,f,g,h,i,j,k;
-        char l,m,n,o,p,q,r,s,t,u,v;
-        a=5;
-        b=8;
-        c=a+b;
-        e=8;
-        f=12;
-        g=e+f-c*3;
-        l='k';
-        r='j';
-        System.out.println("Copy Paste");
-       
-        
-    }
     
     static public void copypaste8 (){
         int a,b,c,e,f,g,h,i,j,k;
@@ -238,7 +194,7 @@ public class Contorno {
         switch(opcion)
 
         {
-            case 1:Rectangulo.copypaste6();break;
+            
             case 2:Rectangulo.copypaste7();break;
             case 3:Rectangulo.copypaste8();break;
             case 4:Rectangulo.copypaste9();break;

@@ -107,21 +107,7 @@ public class Rectangulo {
         
     }
     
-    static public void copypaste6 (){
-        int a,b,c,e,f,g,h,i,j,k;
-        char l,m,n,o,p,q,r,s,t,u,v;
-        a=5;
-        b=8;
-        c=a+b;
-        e=8;
-        f=12;
-        g=e+f-c*3;
-        l='k';
-        r='j';
-        System.out.println("Copy Paste");
-       
-        
-    }
+    
     
     static public void copypaste7 (){
         int a,b,c,e,f,g,h,i,j,k;
@@ -224,8 +210,7 @@ public class Rectangulo {
         switch(opcion)
 
         {
-            case 1:Contorno.copypaste6();break;
-            case 2:Contorno.copypaste7();break;
+            
             case 3:Contorno.copypaste8();break;
             case 4:Contorno.copypaste9();break;
             case 5:Contorno.copypaste10();break;

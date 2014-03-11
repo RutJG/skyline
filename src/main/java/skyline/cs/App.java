@@ -59,7 +59,7 @@ public class App
         {
 
           
-            case 3:Contorno.copypaste3();break;
+            
             case 4:Contorno.copypaste4();break;
             case 5:Contorno.copypaste5();break;
            case 9:Rectangulo.copypaste5();break;

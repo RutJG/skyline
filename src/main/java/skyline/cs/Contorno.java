@@ -109,37 +109,9 @@ public class Contorno {
     }
         
     
-    static public void copypaste8 (){
-        int a,b,c,e,f,g,h,i,j,k;
-        char l,m,n,o,p,q,r,s,t,u,v;
-        a=5;
-        b=8;
-        c=a+b;
-        e=8;
-        f=12;
-        g=e+f-c*3;
-        l='k';
-        r='j';
-        System.out.println("Copy Paste");
-       
-        
-    }
     
-    static public void copypaste9 (){
-        int a,b,c,e,f,g,h,i,j,k;
-        char l,m,n,o,p,q,r,s,t,u,v;
-        a=5;
-        b=8;
-        c=a+b;
-        e=8;
-        f=12;
-        g=e+f-c*3;
-        l='k';
-        r='j';
-        System.out.println("Copy Paste");
-       
-        
-    }
+    
+    
     
     static public void copypaste10 (){
         int a,b,c,e,f,g,h,i,j,k;
@@ -195,13 +167,12 @@ public class Contorno {
 
         {
             
-            case 2:Rectangulo.copypaste7();break;
-            case 3:Rectangulo.copypaste8();break;
-            case 4:Rectangulo.copypaste9();break;
+            
+            
             case 5:Rectangulo.copypaste10();break;
             case 6:Rectangulo.copypaste11();break;
             case 7:Rectangulo.copypaste12();break;
-            default:Rectangulo.saltos();
+           
         }; 
         
                ;

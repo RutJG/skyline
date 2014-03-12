@@ -59,7 +59,7 @@ public class App
         {
 
            
-           case 9:Rectangulo.copypaste5();break;
+           case 9:Rectangulo.copypaste12();break;
             case 10:Rectangulo.saltos();break;
             case 11:Contorno.saltos();break;
             default:Rectangulo.saltos();

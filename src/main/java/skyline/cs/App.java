@@ -53,19 +53,7 @@ public class App
             System.out.println(c.getCoordenada()+" "+c.getAltura());
         }
     
-        int opcion=1;
-        switch(opcion)
-
-        {
-
-           
-           case 9:Rectangulo.copypaste12();break;
-            case 10:Rectangulo.saltos();break;
-            case 11:Contorno.saltos();break;
-            default:Rectangulo.saltos();
-
-
-        }; 
+        
 }
 
 }
